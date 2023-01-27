@@ -1,6 +1,6 @@
 # NBA
 
-> Simple basketball scores and schedules.
+> Simple basketball scores and schedules fetching from ESPN Api https://www.espn.com/apis/devcenter/io-docs.html
 
 ## 💻 Demonstration
 
