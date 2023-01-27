@@ -1,6 +1,7 @@
 # NBA
 
-> Simple basketball scores and schedules fetching from ESPN Api https://www.espn.com/apis/devcenter/io-docs.html
+> Simple basketball web application for show scores and schedules from your favorite team in NBA,
+fetching dynamic data from [ESPN Api](https://www.espn.com/apis/devcenter/io-docs.html)
 
 ## 💻 Demonstration
 
