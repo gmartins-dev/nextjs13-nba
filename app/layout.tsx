@@ -1,9 +1,9 @@
-import './globals.css';
+import './globals.css'
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
   return (
     <html lang='en' className='antialiased'>
@@ -13,7 +13,7 @@ export default function RootLayout({
       <footer className='mx-auto mt-2 mb-4 text-xs text-center text-gray-600 dark:text-gray-400'>
         {'Built using the '}
         <a
-          href='https://espn.com'
+          href='https://www.espn.com/apis/devcenter/io-docs.html'
           target='_blank'
           rel='noopener noreferrer'
           className='transition-all border-b border-gray-400 dark:border-gray-600 hover:border-gray-600 hover:dark:border-gray-400 hover:text-gray-800 hover:dark:text-gray-200'
