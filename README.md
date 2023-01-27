@@ -1,4 +1,4 @@
-# NBA
+# NBA Scores & Schedules
 
 > Simple basketball web application for show scores and schedules from your favorite team in NBA,
 fetching dynamic data from [ESPN Api](https://www.espn.com/apis/devcenter/io-docs.html)
