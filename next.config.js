@@ -17,13 +17,14 @@ const nextConfig = {
     appDir: true,
     fetchCache: true,
   },
+  // @ts-ignore
   redirects: () => [
     {
       source: '/',
-      destination: '/66', // Default to ISU
+      destination: '/13', // Default to Lakers
       permanent: false,
     },
   ],
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
