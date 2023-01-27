@@ -2,6 +2,8 @@
 
 > Simple basketball scores and schedules.
 
+- Demo: https://nextjs13-nba.vercel.app
+
 ## APIs
 
 https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
