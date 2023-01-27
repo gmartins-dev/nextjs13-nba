@@ -2,7 +2,49 @@
 
 > Simple basketball scores and schedules.
 
-- Demo: https://nextjs13-nba.vercel.app
+## 💻 Demonstration
+
+
+<h5 align="center"> 🔗 Online: https://react-chat-app-lovat.vercel.app</h5>
+
+</br>
+<p  align="center">
+  <h5 align="center">🖥 Desktop (Light Mode)</h5>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="public/nba-demo-desktop3.png" alt="">
+</kbd>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="public/nba-demo-desktop4.png" alt="">
+</kbd>
+</p>
+<p  align="center">
+  <h5 align="center">🖥 Desktop (Dark Mode)</h5>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="public/nba-demo-desktop1.png" alt="">
+</kbd>
+  <kbd>
+<img width="100%" style="border-radius: 5px" height="70%" src="public/nba-demo-desktop2.png" alt="">
+</kbd>
+</p>
+  <h5 align="center">📱 Mobile (Dark Mode)</h5>
+<p  align="center">
+  <kbd>
+<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile1.png" alt="">
+</kbd>
+  <kbd>
+<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile2.png" alt="">
+</kbd>
+</p>
+<h5 align="center">📱 Mobile (Light Mode)</h5>
+<p  align="center">
+  <kbd>
+<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile3.png" alt="">
+</kbd>
+  <kbd>
+<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile4.png" alt="">
+</kbd>
+</p>
+</br>
 
 ## APIs
 
