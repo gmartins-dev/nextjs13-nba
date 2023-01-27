@@ -29,19 +29,19 @@
   <h5 align="center">📱 Mobile (Dark Mode)</h5>
 <p  align="center">
   <kbd>
-<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile1.png" alt="">
+<img width="350" style="border-radius: 5px" height="800" src="public/nba-demo-mobile1.png" alt="">
 </kbd>
   <kbd>
-<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile2.png" alt="">
+<img width="350" style="border-radius: 5px" height="800" src="public/nba-demo-mobile2.png" alt="">
 </kbd>
 </p>
 <h5 align="center">📱 Mobile (Light Mode)</h5>
 <p  align="center">
   <kbd>
-<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile3.png" alt="">
+<img width="350" style="border-radius: 5px" height="800" src="public/nba-demo-mobile3.png" alt="">
 </kbd>
   <kbd>
-<img width="300" style="border-radius: 5px" height="800" src="public/nba-demo-mobile4.png" alt="">
+<img width="350" style="border-radius: 5px" height="800" src="public/nba-demo-mobile4.png" alt="">
 </kbd>
 </p>
 </br>
