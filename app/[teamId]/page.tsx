@@ -100,7 +100,7 @@ export default async function HomePage({
         </div>
         <h3 className='mb-2 text-gray-700 dark:text-gray-300'>{`${record} • ${standing}`}</h3>
         <TeamSelect allTeams={allTeams} teamId={params.teamId} />
-        <h2 className='text-xl font-semibold'>Schedule</h2>
+        <h2 className='text-xl font-semibold'>Scores & Schedules</h2>
         <div>
           {games.map((game, index) => {
             return (
